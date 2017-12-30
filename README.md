@@ -12,6 +12,6 @@ private repository for [tubugl](https://github.com/kenjiSpecial/tubugl-helper/bl
 
 ### [#02 - reading](https://github.com/kenjiSpecial/tubugl-private/blob/master/docs/02-reading.md)
 
-### [#03 - reading](https://github.com/kenjiSpecial/tubugl-private/blob/master/docs/03-question.md)
+### [#03 - question](https://github.com/kenjiSpecial/tubugl-private/blob/master/docs/03-question.md)
 
 ### [#04 - tool](https://github.com/kenjiSpecial/tubugl-private/blob/master/docs/04-tool.md)
