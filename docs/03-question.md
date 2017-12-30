@@ -1,2 +1,2 @@
 
-- [ ] search the color blendmode and take note
+- [ ] search the color blendmode in webgl
